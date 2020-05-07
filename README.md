@@ -10,6 +10,6 @@ Esta página foi criada, para divulgação de uma campanha de E-commerce online 
 
 # Layout
 
-![calculadora img](https://user-images.githubusercontent.com/63323533/79782859-1995fa80-8316-11ea-9508-083105d21774.jpg)
+![Landing Page Concept - Google Chrome 04_05_2020 23_27_36](https://user-images.githubusercontent.com/63323533/81341315-b501cc00-9087-11ea-8cca-d1bd830ca80c.png)
 
 
